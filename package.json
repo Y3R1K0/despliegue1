@@ -10,7 +10,7 @@
     "start": "node index.js"
   },
   "devDependencies": {
-    "dotenv": "TU VERSION",
+    "dotenv": "^18.0.6",
     "nodemon": "TU VERSION"
   }
 }
